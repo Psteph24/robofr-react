@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofr-react/static/css/main.1f9830a8.css",
+    "main.js": "/robofr-react/static/js/main.7442fcdb.js",
+    "static/js/787.32032a02.chunk.js": "/robofr-react/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robofr-react/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofr-react/index.html",
+    "main.1f9830a8.css.map": "/robofr-react/static/css/main.1f9830a8.css.map",
+    "main.7442fcdb.js.map": "/robofr-react/static/js/main.7442fcdb.js.map",
+    "787.32032a02.chunk.js.map": "/robofr-react/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9830a8.css",
+    "static/js/main.7442fcdb.js"
+  ]
+}
